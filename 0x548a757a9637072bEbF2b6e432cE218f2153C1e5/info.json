@@ -1,0 +1,15 @@
+{
+    "name": "Tether USD Bridged ZED20",
+    "symbol": "USDT.z",
+    "type": "token",
+    "decimals": 18,
+    "description": "USDT.z is a bridged token representing Tether USD on the ZED20 network via BNB Smart Chain.",
+    "website": "https://tetherusdbridged.netlify.app",
+    "explorer": "https://bscscan.com/token/0x548a757a9637072bEbF2b6e432cE218f2153C1e5",
+    "status": "active",
+    "id": "0x548a757a9637072bEbF2b6e432cE218f2153C1e5",
+    "tags": [
+        "stablecoin",
+        "usd-backed"
+    ]
+}
